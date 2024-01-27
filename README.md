@@ -1,4 +1,5 @@
-<a target="_blank" href="https://tic-tac-toe-game-omor.vercel.app/">Live Link</a>
+<a href="https://tic-tac-toe-game-omor.vercel.app/" target="_blank">Live Link</a> 
+<br>
 This code and HTML structure represent a simple implementation of a Tic-Tac-Toe game using HTML, CSS, and JavaScript. Here's a breakdown of the key components:
 
 1. **HTML Structure:**
